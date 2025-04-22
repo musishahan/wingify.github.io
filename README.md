@@ -27,7 +27,7 @@
     }
  .wing{
    float: left;
-   width: 50%;
+   width: 30%;
    padding: 10px;
    }
   .wingify:after{
