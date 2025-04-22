@@ -1,14 +1,16 @@
-<!DOCTYPE html>
 <html>
   <head>
-  <title>Wingify</title>
-</head>
-<body>
-  <div class="wing1" stype="background-color:#EFEFEF" style="width=100%">
-    <a href="https://youtube.com">Click to visit youtube</a>
-    <img src="https://static01.nyt.com/images/2021/06/08/busines…ch-YouTube-VideoStill-threeByTwoMediumAt2X-v2.png">
-    <video style="width:100%" src="https://vp.nyt.com/video/2021/06/08/94075_1_08OnTech-YouTube-Video_wg_1080p.mp4">
-    </video>
-  </div>
-</body>
+    <title>Poshah
+    </title>
+  </head>
+  <body>
+  <h1> Poshah Shoes
+  </h1>
+    <p>Poshah shoes offer a Premium Leather shoes directly from a manutailer</p>
+    <p>check the pictures below</p>
+    <div style="width:100%;background-color:#EFEFEF">
+    <img style="width:100%" src="https://italianshoescompany.com/cdn/shop/files/img2_95bc1a9c-21a0-4ec7-a450-d44f3254956e.jpg?v=1745311321&width=600">
+    <img style="width:100%" src="https://italianshoescompany.com/cdn/shop/files/0114_Layer-14.png?v=1705797921&width=600">
+    <img style="width:100%" src="https://italianshoescompany.com/cdn/shop/files/0114_Layer-14.png?v=1705797921&width=600>
+  </body>
 </html>
