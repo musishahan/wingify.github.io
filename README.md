@@ -19,6 +19,20 @@
   <img src="https://italianshoescompany.com/cdn/shop/files/img2_d8968c3f-6723-4ef7-ba06-2e69d8d776f2.jpg?v=1743757845&width=600" width="100%">
 </div>
     </div>
+    <div class="wingify2">
+      <div class="wing1">
+        <form>
+          <input type="text" id="Fname" name="fname" value=""><br>
+          <label for="fname">First Name</label>
+          <input type="text" id="lname" name="lname" value=""><br>
+          <label for="lname">Last Name</label>
+          <input type="email" id="email" name="email" value=""><br>
+          <label for="email">Email</label>
+          <input type="number" id="number" name="number" value="number"><br>
+          <label for="number">Mobile</label>
+        </form>
+      </div>
+    </div>
   </body>
 </html>
 <style>
