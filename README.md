@@ -22,15 +22,15 @@
     <div class="wingify2">
       <div class="wing1">
         <form>
-          <input type="text" id="Fname" name="fname" value=""><br>
           <label for="fname">First Name</label>
-          <input type="text" id="lname" name="lname" value=""><br>
+          <input type="text" id="Fname" name="fname" value=""><br>
           <label for="lname">Last Name</label>
+          <input type="text" id="lname" name="lname" value=""><br>
+           <label for="email">Email</label>
           <input type="email" id="email" name="email" value=""><br>
-          <label for="email">Email</label>
+           <label for="number">Mobile</label>
           <input type="number" id="number" name="number" value="number"><br>
-          <label for="number">Mobile</label>
-        </form>
+         </form>
       </div>
     </div>
   </body>
