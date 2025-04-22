@@ -24,6 +24,7 @@
 <style>
   .body{
     background-color: "#EFEFEF;
+    }
  .wing{
    float: left;
    width: 50%;
